@@ -5,4 +5,5 @@ def speak_to_grandma(words)
     "NO, NOT SINCE 1938!"
   else
     "HUH?! SPEAK UP SONNY!"
+  end
 end
